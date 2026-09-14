@@ -1,16 +1,20 @@
-## Hi there 👋
+# Yanek K.
 
-<!--
-**Yanek-K/Yanek-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student and software engineer focused on security, systems, and full-stack development. Currently studying at Thompson Rivers University, with professional experience across frontend development, business ownership, and team leadership.
 
-Here are some ideas to get you started:
+**Focus areas:** C/C++, JavaScript/TypeScript, PHP, Python · Docker & Linux infrastructure · Web security (OAuth, SSL/TLS, OWASP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also an independent researcher at [First Principle Consultants](https://www.firstprincipleconsultants.com), studying foundational physics with a focus on quantum computing — the reason I went back to formal CS study in the first place.
+
+---
+
+### Projects
+
+- **[OutRun CTF](https://github.com/Yanek-K/outrun-ctf)** — A self-hosted capture-the-flag training platform. PHP, MySQL, Docker, deployed and secured on my own hardware.
+- **[More Rocks](https://github.com/Yanek-K/morerocks_v1)** — An interactive guitar chord-inversion trainer, built through a full HCI research and usability-testing process. React, Vite.
+- **[Premium Cameras](https://github.com/Yanek-K/premium-cameras)** — A concept e-commerce storefront. React, Redux, Firebase.
+
+---
+
+**Portfolio:** [yanek-k.com](https://yanek-k.com)
+**Contact:** yanek.dev@gmail.com
