@@ -4,7 +4,7 @@ Computer Science student and software engineer focused on security, systems, and
 
 **Focus areas:** C/C++, JavaScript/TypeScript, PHP, Python · Docker & Linux infrastructure · Web security (OAuth, SSL/TLS, OWASP)
 
-I'm also an independent researcher at [First Principle Consultants](https://www.firstprincipleconsultants.com), studying foundational physics with a focus on quantum computing — the reason I went back to formal CS study in the first place.
+I'm also an independent researcher at [First Principle Consultants](https://www.firstprincipleconsultants.com), studying foundational physics with a focus on quantum computing.
 
 ---
 
