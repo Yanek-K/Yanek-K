@@ -10,7 +10,7 @@ I'm also an independent researcher at [First Principle Consultants](https://www.
 
 ### Projects
 
-- **[OutRun CTF](https://github.com/Yanek-K/outrun-ctf)** — A self-hosted capture-the-flag training platform. PHP, MySQL, Docker, deployed and secured on my own hardware.
+- **[OutRun CTF](https://github.com/Yanek-K/ctf_final_project)** — A self-hosted capture-the-flag training platform. PHP, MySQL, Docker, deployed and secured on my own hardware.
 - **[More Rocks](https://github.com/Yanek-K/morerocks_v1)** — An interactive guitar chord-inversion trainer, built through a full HCI research and usability-testing process. React, Vite.
 - **[Premium Cameras](https://github.com/Yanek-K/premium-cameras)** — A concept e-commerce storefront. React, Redux, Firebase.
 
